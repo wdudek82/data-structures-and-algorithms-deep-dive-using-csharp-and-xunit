@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructuresAndAlgorithmsDeepDive", "DataStructuresAndAlgorithmsDeepDive\DataStructuresAndAlgorithmsDeepDive.csproj", "{38250163-E723-4672-87EB-82ED6BF453C9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructuresAndAlgorithmsDeepDive.Tests.Unit", "DataStructuresAndAlgorithmsDeepDive.Tests.Unit\DataStructuresAndAlgorithmsDeepDive.Tests.Unit.csproj", "{EFDC6165-7423-487D-812A-3EC25F9B92EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{38250163-E723-4672-87EB-82ED6BF453C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38250163-E723-4672-87EB-82ED6BF453C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38250163-E723-4672-87EB-82ED6BF453C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFDC6165-7423-487D-812A-3EC25F9B92EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFDC6165-7423-487D-812A-3EC25F9B92EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFDC6165-7423-487D-812A-3EC25F9B92EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFDC6165-7423-487D-812A-3EC25F9B92EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -6,7 +6,9 @@ namespace DataStructuresAndAlgorithmsDeepDive
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            // ArraysExample.Demo();
+            var array = new[] {20, 35, -15, 7};
+            QuickSort.Sort(array);
         }
     }
 }
