@@ -4,8 +4,8 @@
 
 - [x] Bubble Sort
 - [x] Quick Sort
-- [ ] Selection Sort
-- [ ] Insertion Sort
+- [x] Selection Sort
+- [x] Insertion Sort
 - [ ] Merge Sort
 - [ ] Shell Sort
 - [ ] Recursion

@@ -11,8 +11,8 @@
     &lt;ProjectFolder&gt;A0379F51-A300-4A7C-9728-B5160E2D7127/d:Unit&lt;/ProjectFolder&gt;
   &lt;/Or&gt;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=91192996_002D4b7c_002D44c7_002Db950_002Dff20ee4f6eea/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="when_array_is_empty_then_return_empty_array" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
-  &lt;Project Location="/home/neevor/code/algorithms/csh/DataStructuresAndAlgorithmsDeepDive/DataStructuresAndAlgorithmsDeepDive.Tests.Unit" Presentation="&amp;lt;DataStructuresAndAlgorithmsDeepDive.Tests.Unit&amp;gt;" /&gt;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=91192996_002D4b7c_002D44c7_002Db950_002Dff20ee4f6eea/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="1" Name="when_array_is_empty_then_return_empty_array" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/home/neevor/Storage/code/algorithms/csh/DataStructuresAndAlgorithmsDeepDive/DataStructuresAndAlgorithmsDeepDive.Tests.Unit" Presentation="&amp;lt;DataStructuresAndAlgorithmsDeepDive.Tests.Unit&amp;gt;" /&gt;
 &lt;/SessionState&gt;</s:String>
 	
 	</wpf:ResourceDictionary>

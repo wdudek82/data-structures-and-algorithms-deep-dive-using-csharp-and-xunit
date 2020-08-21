@@ -8,7 +8,7 @@ namespace DataStructuresAndAlgorithmsDeepDive
         {
             // ArraysExample.Demo();
             var array = new[] {20, 35, -15, 7};
-            QuickSort.Sort(array);
+            InsertionSort.Sort(array);
         }
     }
 }
