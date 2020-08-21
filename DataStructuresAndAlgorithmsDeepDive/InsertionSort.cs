@@ -1,6 +1,3 @@
-using System;
-using System.Numerics;
-
 namespace DataStructuresAndAlgorithmsDeepDive
 {
     public static class InsertionSort
