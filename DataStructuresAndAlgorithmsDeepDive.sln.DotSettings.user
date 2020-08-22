@@ -5,6 +5,7 @@
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ef631e17_002D8bab_002D4976_002D94be_002D33e35f320a74/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="when_searching_for_existing_value_return_index_and_number_of_steps" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;xUnit::EFDC6165-7423-487D-812A-3EC25F9B92EC::.NETCoreApp,Version=v3.1::DataStructuresAndAlgorithmsDeepDive.Tests.Unit.searching.BinarySearchTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::EFDC6165-7423-487D-812A-3EC25F9B92EC::.NETCoreApp,Version=v3.1::DataStructuresAndAlgorithmsDeepDive.Tests.Unit.QuickSortTest&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	
