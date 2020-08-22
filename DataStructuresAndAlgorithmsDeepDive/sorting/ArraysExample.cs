@@ -1,7 +1,6 @@
 using System;
-using System.Diagnostics;
 
-namespace DataStructuresAndAlgorithmsDeepDive
+namespace DataStructuresAndAlgorithmsDeepDive.sorting
 {
     public static class ArraysExample
     {
@@ -29,7 +28,6 @@ namespace DataStructuresAndAlgorithmsDeepDive
                 {
                     var first = array[a];
                     var second = array[a + 1];
-                    var tmp = first;
 
                     if (first <= second) continue;
 

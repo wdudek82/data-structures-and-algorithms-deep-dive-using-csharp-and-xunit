@@ -1,4 +1,4 @@
-namespace DataStructuresAndAlgorithmsDeepDive
+namespace DataStructuresAndAlgorithmsDeepDive.sorting
 {
     public static class InsertionSort
     {

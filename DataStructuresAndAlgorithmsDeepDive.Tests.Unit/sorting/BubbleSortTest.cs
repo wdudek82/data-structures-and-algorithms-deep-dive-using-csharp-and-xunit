@@ -1,7 +1,8 @@
 using System;
+using DataStructuresAndAlgorithmsDeepDive.sorting;
 using Xunit;
 
-namespace DataStructuresAndAlgorithmsDeepDive.Tests.Unit
+namespace DataStructuresAndAlgorithmsDeepDive.Tests.Unit.sorting
 {
     public class BubbleSortTest
     {

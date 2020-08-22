@@ -1,6 +1,4 @@
-using System;
-
-namespace DataStructuresAndAlgorithmsDeepDive
+namespace DataStructuresAndAlgorithmsDeepDive.sorting
 {
     public static class BubbleSort
     {
