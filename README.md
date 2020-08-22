@@ -22,6 +22,9 @@
 
 # Search Algorithms
 
+- [x] Binary Search (iterative)
+- [ ] Binary Search (recursive)
+
 # Trees
 
 # Heaps

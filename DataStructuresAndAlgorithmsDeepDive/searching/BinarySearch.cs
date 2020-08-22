@@ -26,21 +26,30 @@ namespace DataStructuresAndAlgorithmsDeepDive.searching
         public int SearchIter(int[] array, int num)
         {
             var startInd = 0;
-            var midInd = -1;
             var endInd = array.Length - 1;
+
             while (true)
             {
-                midInd = (startInd + endInd) / 2;
-                var mid = array[midInd];
-                if (mid == num)
+                if (startInd == endInd)
                 {
-                    break;
-                } else if (mid < num)
-                {
+                    return array[startInd] == num ? startInd : -1;
+                }
 
+                var midInd = (startInd + endInd) / 2;
+                var midNum = array[midInd];
+
+                if (num < midNum)
+                {
+                    endInd = midInd - 1;
+                } else if (num > midNum)
+                {
+                    startInd = midInd + 1;
+                }
+                else if (num == midNum)
+                {
+                    return midInd;
                 }
             }
-            return 
         }
     }
 }
