@@ -20,28 +20,25 @@ namespace DataStructuresAndAlgorithmsDeepDive.searching
             {
                 return Search(array.Take(midInd).ToArray(), num);
             }
+
             return num > mid ? Search(array.Skip(midInd + 1).ToArray(), num) : midInd;
         }
 
         public int SearchIter(int[] array, int num)
         {
             var startInd = 0;
-            var endInd = array.Length - 1;
+            var endInd = array.Length;
 
-            while (true)
+            while (startInd < endInd)
             {
-                if (startInd == endInd)
-                {
-                    return array[startInd] == num ? startInd : -1;
-                }
-
                 var midInd = (startInd + endInd) / 2;
                 var midNum = array[midInd];
 
                 if (num < midNum)
                 {
-                    endInd = midInd - 1;
-                } else if (num > midNum)
+                    endInd = midInd;
+                }
+                else if (num > midNum)
                 {
                     startInd = midInd + 1;
                 }
@@ -50,6 +47,8 @@ namespace DataStructuresAndAlgorithmsDeepDive.searching
                     return midInd;
                 }
             }
+
+            return -1;
         }
     }
 }

@@ -1,22 +1,7 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=90f2bb6d_002Dfa9d_002D445c_002Da7b1_002D7f07cf31ef8e/@EntryIndexedValue">&lt;SessionState ContinuousTestingIsOn="True" ContinuousTestingMode="1" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;Or&gt;&#xD;
-    &lt;TestAncestor&gt;&#xD;
-      &lt;TestId&gt;xUnit::A0379F51-A300-4A7C-9728-B5160E2D7127::.NETCoreApp,Version=v3.1::DataStructuresAndAlgorithmsDeepDive.Tests.UnitTest1.Test1&lt;/TestId&gt;&#xD;
-      &lt;TestId&gt;xUnit::A0379F51-A300-4A7C-9728-B5160E2D7127::.NETCoreApp,Version=v3.1::DataStructuresAndAlgorithmsDeepDive.Tests.Unit.QuickSortTest&lt;/TestId&gt;&#xD;
-      &lt;TestId&gt;xUnit::A0379F51-A300-4A7C-9728-B5160E2D7127::.NETCoreApp,Version=v3.1::DataStructuresAndAlgorithmsDeepDive.Tests.Unit.BubbleSortTest.when_array_of_same_integers_provided_then_input_same_as_output&lt;/TestId&gt;&#xD;
-      &lt;TestId&gt;xUnit::A0379F51-A300-4A7C-9728-B5160E2D7127::.NETCoreApp,Version=v3.1::DataStructuresAndAlgorithmsDeepDive.Tests.Unit.BubbleSortTest.when_array_is_empty_then_return_empty_array&lt;/TestId&gt;&#xD;
-      &lt;TestId&gt;xUnit::A0379F51-A300-4A7C-9728-B5160E2D7127::.NETCoreApp,Version=v3.1::DataStructuresAndAlgorithmsDeepDive.Tests.Unit.BubbleSortTest.when_array_has_one_element_output_equals_input&lt;/TestId&gt;&#xD;
-    &lt;/TestAncestor&gt;&#xD;
-    &lt;ProjectFolder&gt;A0379F51-A300-4A7C-9728-B5160E2D7127/d:Unit&lt;/ProjectFolder&gt;&#xD;
-  &lt;/Or&gt;&#xD;
-&lt;/SessionState&gt;</s:String>
 	
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=940e86cd_002D0ebd_002D44f2_002Dbaa7_002De56860e1141b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="when_searching_for_non_existing_value_return_index_minus_one_and_0_steps" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;xUnit::EFDC6165-7423-487D-812A-3EC25F9B92EC::.NETCoreApp,Version=v3.1::DataStructuresAndAlgorithmsDeepDive.Tests.Unit.searching.BinarySearchTest.when_searching_for_non_existing_value_return_index_minus_one_and_0_steps&lt;/TestId&gt;&#xD;
-  &lt;/TestAncestor&gt;&#xD;
-&lt;/SessionState&gt;</s:String>
+	
+	
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ef631e17_002D8bab_002D4976_002D94be_002D33e35f320a74/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="when_searching_for_existing_value_return_index_and_number_of_steps" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;xUnit::EFDC6165-7423-487D-812A-3EC25F9B92EC::.NETCoreApp,Version=v3.1::DataStructuresAndAlgorithmsDeepDive.Tests.Unit.searching.BinarySearchTest&lt;/TestId&gt;&#xD;
